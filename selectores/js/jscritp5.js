@@ -1,0 +1,1 @@
+$("p:contains('Elemento')").css('color', 'red');
